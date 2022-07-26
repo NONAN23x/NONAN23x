@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NONAN23x
-- 👀 I’m interested in InfoSec world
-- 🌱 I’m currently learning Red-teaming
+- 👋 Hi, I’m @NONAN23x, I document my ComputerSciecne journey on github, it helps me keep everything organized:)!
 
 <!---
 NONAN23x/NONAN23x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
