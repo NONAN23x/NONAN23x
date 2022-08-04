@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @NONAN23x, I document my ComputerSciecne journey on github, it helps me keep everything organized:)!
+- 👋 Hi, I’m @NONAN23x, I use github to store my programs and use it as a journal for my computer science journey!!!
+-  You can find me on linkedIn: https://linkedin.com/in/nonan23x
 
 <!---
 NONAN23x/NONAN23x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
