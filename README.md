@@ -1,11 +1,11 @@
-### Hello There !
+#### Hello There !
 - 👋 Hi, I’m @NONAN23x, I use github to store my programs for my computer science journey!!!
 - I like to play games 
 - I like to hack machines on [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://app.hackthebox.com/)
 
-### Test
-<p>
-<script src="https://tryhackme.com/badge/407728"></script>
+
+#### Test
+<p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe">
 </p>
 
@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 --->
 README.md
 
-### What do I do?
+
+#### What do I do?
 - 🔭 I'm currently working on:
     - [WhisperingNova](https://github.com/NONAN23x/WhisperingNova), A Voice translation and transformation software written in python
     - [Workflow](https://github.com/NONAN23x/dotfiles), Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness.
@@ -43,6 +44,8 @@ README.md
   <code><img title="Docker" height="40" width="40" src="../main/assets/icons/docker.png"></code>
 </p>
 
-### Socials
+
+#### Socials
     -  You can find me on [linkedIn](https://linkedin.com/in/nonan23x)
+
 
