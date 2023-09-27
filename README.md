@@ -7,6 +7,9 @@ You can click the Preview link to take a look at your changes.
 --->
 README.md
 
+- 🔭 I'm currently working on:
+    - [WhisperingNova](https://github.com/NONAN23x/WhisperingNova), A Voice translation and transformation software written in python
+    - [Workflow](https://github.com/NONAN23x/dotfiles), Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness.
 
 #### 👨🏻‍💻 Languages and Tools
 
