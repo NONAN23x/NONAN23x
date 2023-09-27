@@ -2,18 +2,9 @@
 - 👋 Hi, I’m @NONAN23x, I use github to store my programs for my computer science journey!!!
 - I like to play games 
 - I like to hack machines on [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://app.hackthebox.com/)
-
-
-#### Test
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe">
 </p>
-
-<!---
-NONAN23x/NONAN23x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-README.md
 
 
 #### What do I do?
@@ -46,6 +37,6 @@ README.md
 
 
 #### Socials
-    -  You can find me on [linkedIn](https://linkedin.com/in/nonan23x)
+- You can find me on [linkedIn](https://linkedin.com/in/nonan23x)
 
 
