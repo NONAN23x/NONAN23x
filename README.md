@@ -8,7 +8,7 @@
 
 
 #### My Statistics
-![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=dark&show=reviews,prs_merged)
 
 
 #### What do I do?
