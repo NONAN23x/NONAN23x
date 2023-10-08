@@ -6,7 +6,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe">
 </p>
 
-
+![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 #### What do I do?
 - 🔭 I'm currently working on:
     - [WhisperingNova](https://github.com/NONAN23x/WhisperingNova), A Voice translation and transformation software written in python
