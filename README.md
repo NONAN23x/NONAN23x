@@ -24,12 +24,13 @@
 ### What do I do?
 
 🔭 I'm currently working on:
-[![WhisperingNova](https://github.com/NONAN23x/WhisperingNova)] A Voice translation and transformation software written in python
-[![Workflow](https://github.com/NONAN23x/dotfiles)] Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness
+- [WhisperingNova](https://github.com/NONAN23x/WhisperingNova) A Voice translation and transformation software written in python
+- [Workflow](https://github.com/NONAN23x/dotfiles) Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness
 
 </div>
 
 <div align="center">
+  
 ### When I'm AFK
 
 <p>
@@ -41,10 +42,11 @@
 
 </div>
 
+<div align="center">
+  
+### ‍💻 My Tech Stack
 
-#### ‍💻 Languages and Tools
-
-<p align="center">
+<p>
   <code><img title="Arch btw" height="40" width="40" src="../main/assets/icons/arch.svg"></code>
   <code><img title="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
   <code><img title="HTML5" height="40" width="40" src="../main/assets/icons/html5.svg"></code>
@@ -72,7 +74,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-#### Socials
-You can find me on [linkedIn](https://linkedin.com/in/nonan23x)
+### 🌐 My Socials
+You can find me on [![linkedIn](https://linkedin.com/in/nonan23x)]
 
 </div>
