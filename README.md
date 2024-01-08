@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hello There ! 👋
+## Hello There ! 👋
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
   
-### My Statistics:
+## My Statistics:
 
 <p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe">
@@ -21,7 +21,7 @@
 
 <div align="center">
   
-### What do I do?:
+## What do I do?:
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
   
-### When I'm AFK:
+## When I'm AFK:
 
 <p>
   <img src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white" alt="Playstation 4">
@@ -44,7 +44,7 @@
 
 <div align="center">
   
-### ‍💻 My Tech Stack:
+## ‍💻 My Tech Stack:
 
 <p>
   <code><img title="Arch btw" height="40" width="40" src="../main/assets/icons/arch.svg"></code>
