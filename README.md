@@ -14,10 +14,13 @@
 </div>
 
 <div align="center">
+  
 ### What do I do?
-- 🔭 I'm currently working on:
+
+🔭 I'm currently working on:
 [![WhisperingNova](https://github.com/NONAN23x/WhisperingNova)] A Voice translation and transformation software written in python
-[![Workflow](https://github.com/NONAN23x/dotfiles)] Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness.
+[![Workflow](https://github.com/NONAN23x/dotfiles)] Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness
+
 </div>
 
 <div align="center">
