@@ -56,8 +56,14 @@
   <code><img title="Docker" height="40" width="40" src="../main/assets/icons/docker.png"></code>
 </p>
 
+<div align="center">
+    
+## 💡 A Quote:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 #### Socials
 - You can find me on [linkedIn](https://linkedin.com/in/nonan23x)
 
-
+</div>
