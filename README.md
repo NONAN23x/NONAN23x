@@ -10,14 +10,14 @@
 
 <div align="center">
 ### My Statistics
-![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=tokyonight&show=reviews,prs_merged)
+[![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=tokyonight&show=reviews,prs_merged)]
 </div>
 
 <div align="center">
 ### What do I do?
 - 🔭 I'm currently working on:
-    - [WhisperingNova](https://github.com/NONAN23x/WhisperingNova), A Voice translation and transformation software written in python
-    - [Workflow](https://github.com/NONAN23x/dotfiles), Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness.
+[![WhisperingNova](https://github.com/NONAN23x/WhisperingNova)] A Voice translation and transformation software written in python
+[![Workflow](https://github.com/NONAN23x/dotfiles)] Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness.
 </div>
 
 <div align="center">
@@ -64,6 +64,6 @@
 
 
 #### Socials
-- You can find me on [linkedIn](https://linkedin.com/in/nonan23x)
+You can find me on [linkedIn](https://linkedin.com/in/nonan23x)
 
 </div>
