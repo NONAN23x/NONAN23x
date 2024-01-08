@@ -1,21 +1,21 @@
 <div align="center">
   
-### Hello There !
+### Hello There ! 👋
 
 </div>
 
-- 👋 Hi, I’m @NONAN23x, I use github to store my programs for my computer science journey!!!
+- I’m @NONAN23x, I use github to store my programs for my computer science journey!!!
 - I like to play games 
 - I like to hack machines on [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://app.hackthebox.com/)
-
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe">
-</p>
-
 
 <div align="center">
   
 ### My Statistics
+
+<p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe">
+</p>
+
 [![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=tokyonight&show=reviews,prs_merged)]
 </div>
 
