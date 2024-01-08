@@ -1,29 +1,36 @@
-#### Hello There !
+<div align="center">
+### Hello There !
 - 👋 Hi, I’m @NONAN23x, I use github to store my programs for my computer science journey!!!
 - I like to play games 
 - I like to hack machines on [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://app.hackthebox.com/)
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe">
 </p>
+</div>
 
-
-#### My Statistics
+<div align="center">
+### My Statistics
 ![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=tokyonight&show=reviews,prs_merged)
+</div>
 
-
-#### What do I do?
+<div align="center">
+### What do I do?
 - 🔭 I'm currently working on:
     - [WhisperingNova](https://github.com/NONAN23x/WhisperingNova), A Voice translation and transformation software written in python
     - [Workflow](https://github.com/NONAN23x/dotfiles), Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness.
+</div>
 
-#### When I'm AFK
+<div align="center">
+### When I'm AFK
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white" alt="Playstation 4">
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
 </p>
+
+</div>
 
 
 #### ‍💻 Languages and Tools
