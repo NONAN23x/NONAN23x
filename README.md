@@ -46,7 +46,7 @@
   
 ## ‍💻 My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,blender,c,cs,cpp,css,discord,docker,dotnet,git,html,java,linux,md,neovim,py,unity,vscode,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,discord,vscode,bash,py,c,cpp,cs,dotnet,git,css,js,html,md,unity,blender,docker,neovim,&perline=6)](https://skillicons.dev)
 
 <div align="center">
     
