@@ -57,8 +57,8 @@
 
 ### 🌐 My Socials:
 
-You can find me on [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+You can find me on:
 
-[![linkedIn](https://linkedin.com/in/nonan23x)]
+[![Linked In](https://linkedin.com/in/nonan23x)]
 
 </div>
