@@ -16,6 +16,13 @@
     - [WhisperingNova](https://github.com/NONAN23x/WhisperingNova), A Voice translation and transformation software written in python
     - [Workflow](https://github.com/NONAN23x/dotfiles), Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness.
 
+#### When I'm AFK
+![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+
+
 
 #### ‍💻 Languages and Tools
 
