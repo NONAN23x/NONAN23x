@@ -10,19 +10,17 @@
 - 💻 I'm an aspirant Cyber Security Professional upskilling via the use of various CTFs and Projects
 
 
-> My Certifications
+# 🥇 My Certifications
 
 <div align="center">
-
 <p>
   <img src="./assets/icons/CEH.png" alt="CEH" width="20%">
   <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practical" width="20%">
   <img src="./assets/icons/eJPT.png" alt="eJPT" width="20%">
 </p>
-
 </div>
 
-> My Statistics
+# 📊 My Statistics
 
 <div align="center">
 
@@ -34,42 +32,41 @@
 
 </div>
 
-<div align="center">
-  
 # 🔭 I'm currently working on
-
-</div>
 
 - [WhisperingNova](https://github.com/NONAN23x/WhisperingNova) A Voice translation and transformation software written in python
 - [Workflow](https://github.com/NONAN23x/dotfiles) Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness
 
-<div align="center">
-  
+
 # ⌨️ When I'm AFK
 
+<div align="center">
 <p>
   <img src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white" alt="Playstation 4">
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
 </p>
-
 </div>
 
-<div align="center">
-  
 # ‍💻 My Tech Stack
+
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=linux,discord,vscode,bash,py,c,cpp,cs,dotnet,git,css,js,html,md,unity,blender,docker,neovim,&perline=6)](https://skillicons.dev)
 
-<div align="center">
-    
+</div>
+
 # 💡 A Random Quote
 
+<div align="center">
+  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+</div>
 
 # You can find me here 🌐?
+
+<div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-NONAN23x-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nonan23x/)](https://www.linkedin.com/in/nonan23x/) [![Instagram Badge](https://img.shields.io/badge/-nonan23x-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/nonan23x)](https://www.instagram.com/nonan23x)[![GitHub Badge](https://img.shields.io/badge/-NONAN23x-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/NONAN23x)](https://github.com/NONAN23x) [![YouTube Badge](https://img.shields.io/badge/-NONAN23x-f00?style=flat-circle&labelColor=f00&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)](https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)
 
