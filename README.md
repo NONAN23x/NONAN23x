@@ -43,8 +43,8 @@
 
 # 🔭 I'm currently working on
 
-- [WhisperingNova](https://github.com/NONAN23x/WhisperingNova) A Voice translation and transformation software written in python
-- [Workflow](https://github.com/NONAN23x/dotfiles) Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness
+- [OctaProbe](https://github.com/NONAN23x/octaprobe) A Voice translation and transformation software written in python
+- [An Unnamed Project](#-im-currently-working-on) Working on a side project, havent decided it's name yet
 
 <br/>
 
