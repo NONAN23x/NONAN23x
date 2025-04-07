@@ -18,11 +18,9 @@
 </p>
 
 
-<p align="center">
 ![NONAN23x's Stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 ![NONAN23x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NONAN23x&theme=blueberry&hide_border=true)
 ![NONAN23x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NONAN23x&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-</p>
 
 </div>
 
