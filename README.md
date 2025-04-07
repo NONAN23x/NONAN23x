@@ -11,6 +11,8 @@
 
 <p>
   <img src="./assets/icons/CEH.png" alt="CEH">
+  <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practica">
+  <img src="./assets/icons/eJPT.png" alt="eJPT">
 </p>
 
 <div align="center">
