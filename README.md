@@ -1,24 +1,23 @@
 <div align="center">
   
-## Hello There ! 👋
+# Hello There ! 👋
 
 </div>
 
-- I’m @NONAN23x, I use github to store my programs for my computer science journey!!!
-- I like to play games 
-- I like to hack machines on [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://app.hackthebox.com/)
+Welcome to my GitHub Profile
+- 👋 I’m @NONAN23x, I use github to manage my code and contribute to open source!!!
+- 🎮 I spend a lot of my time playing video games like [LiesOfP](https://www.liesofp.com/en-us) and of course [Minecraft](https://www.minecraft.net/en-us) 
+- 💻 I'm an aspirant Cyber Security Professional upskilling via the use of various CTFs and Projects
 
 <div align="center">
-  
-### My Statistics:
+
+[![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=tokyonight&show=reviews,prs_merged)]
 
 <p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe">
 </p>
 
-[![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=tokyonight&show=reviews,prs_merged)]
-
-### Top Languages
+# Top Languages
 
 <p align="center">
 <a href = "https://github.com/NONAN23x">
@@ -30,7 +29,7 @@
 
 <div align="center">
   
-## What do I do?:
+# What am I currently doing:
 
 </div>
 
@@ -40,7 +39,7 @@
 
 <div align="center">
   
-## When I'm AFK:
+# When I'm AFK:
 
 <p>
   <img src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white" alt="Playstation 4">
@@ -53,19 +52,19 @@
 
 <div align="center">
   
-## ‍💻 My Tech Stack:
+# ‍💻 My Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,discord,vscode,bash,py,c,cpp,cs,dotnet,git,css,js,html,md,unity,blender,docker,neovim,&perline=6)](https://skillicons.dev)
 
 <div align="center">
     
-## 💡 A Quote:
+# 💡 A random Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-### Where am I 🌐?
+# You can find me here 🌐?
 
-[![Linkedin Badge](https://img.shields.io/badge/-NONAN23x-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nonan23x/)](https://www.linkedin.com/in/nonan23x/) [![Instagram Badge](https://img.shields.io/badge/-@nonan23x-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/nonan23x)](https://www.instagram.com/nonan23x)[![GitHub Badge](https://img.shields.io/badge/-@NONAN23x-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/NONAN23x)](https://github.com/NONAN23x) [![YouTube Badge](https://img.shields.io/badge/-NONAN23x%20Lal-f00?style=flat-circle&labelColor=f00&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)](https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)
+[![Linkedin Badge](https://img.shields.io/badge/-NONAN23x-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nonan23x/)](https://www.linkedin.com/in/nonan23x/) [![Instagram Badge](https://img.shields.io/badge/-nonan23x-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/nonan23x)](https://www.instagram.com/nonan23x)[![GitHub Badge](https://img.shields.io/badge/-NONAN23x-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/NONAN23x)](https://github.com/NONAN23x) [![YouTube Badge](https://img.shields.io/badge/-NONAN23x-f00?style=flat-circle&labelColor=f00&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)](https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)
 
 </div>
