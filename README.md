@@ -10,7 +10,9 @@
 - 💻 I'm an aspirant Cyber Security Professional upskilling via the use of various CTFs and Projects
 
 <div align="center">
-  
+
+
+> My Certifications
 <p>
   <img src="./assets/icons/CEH.png" alt="CEH" width="20%">
   <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practical" width="20%">
@@ -18,25 +20,27 @@
 </p>
 
 
+> My Statistics
 ![NONAN23x's Stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+
 ![NONAN23x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NONAN23x&theme=blueberry&hide_border=true)
+
 ![NONAN23x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NONAN23x&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
 <div align="center">
   
-# What am I currently doing:
+# 🔭 I'm currently working on
 
 </div>
 
-🔭 I'm currently working on:
 - [WhisperingNova](https://github.com/NONAN23x/WhisperingNova) A Voice translation and transformation software written in python
 - [Workflow](https://github.com/NONAN23x/dotfiles) Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness
 
 <div align="center">
   
-# When I'm AFK:
+# ⌨️ When I'm AFK
 
 <p>
   <img src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white" alt="Playstation 4">
@@ -49,13 +53,13 @@
 
 <div align="center">
   
-# ‍💻 My Tech Stack:
+# ‍💻 My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=linux,discord,vscode,bash,py,c,cpp,cs,dotnet,git,css,js,html,md,unity,blender,docker,neovim,&perline=6)](https://skillicons.dev)
 
 <div align="center">
     
-# 💡 A random Quote:
+# 💡 A Random Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
