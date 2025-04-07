@@ -4,6 +4,8 @@
 
 </div>
 
+<div align="center">
+
 ### Welcome to my GitHub Profile;
 - 👋 Hi, I’m @NONAN23x, I use github to manage my code and contribute to open source!!!
 - 🎮 I spend a lot of my time playing video games like [LiesOfP](https://www.liesofp.com/en-us) and of course [Minecraft](https://www.minecraft.net/en-us) 
@@ -14,8 +16,6 @@
   <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practical" width="20%">
   <img src="./assets/icons/eJPT.png" alt="eJPT" width="20%">
 </p>
-
-<div align="center">
 
 [![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=tokyonight&show=reviews,prs_merged)]
 
