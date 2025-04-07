@@ -1,14 +1,21 @@
 <div align="center">
-  
+
 # 👋 Hello There!
 
 </div>
 
-### Welcome to my GitHub Profile;
-- 👋 Hi, I’m @NONAN23x, I use github to manage my code and contribute to open source!!!
+### Welcome to my GitHub Profile :)
+-  😊 Hi, I’m @NONAN23x, I use github to manage my code and contribute to open source!!!
 - 🎮 I spend a lot of my time playing video games like [LiesOfP](https://www.liesofp.com/en-us) and of course [Minecraft](https://www.minecraft.net/en-us) 
 - 💻 I'm an aspirant Cyber Security Professional upskilling via the use of various CTFs and Projects
 
+<br/>
+
+# 📝 My Website
+
+- [NONAN23x](https://nonan23x.site/) - My personal blog where I write about various topics related to tech and gaming
+
+<br/>
 
 # 🥇 My Certifications
 
@@ -19,24 +26,27 @@
   <img src="./assets/icons/eJPT.png" alt="eJPT" width="20%">
 </p>
 </div>
+<br/>
 
 # 📊 My Statistics
 
 <div align="center">
 
-![NONAN23x's Stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![NONAN23x's Stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
-![NONAN23x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NONAN23x&theme=blueberry&hide_border=true)
+![NONAN23x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NONAN23x&theme=gotham&hide_border=true)
 
-![NONAN23x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NONAN23x&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+![NONAN23x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NONAN23x&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 </div>
+<br/>
 
 # 🔭 I'm currently working on
 
 - [WhisperingNova](https://github.com/NONAN23x/WhisperingNova) A Voice translation and transformation software written in python
 - [Workflow](https://github.com/NONAN23x/dotfiles) Customizing my OS, Arch Linux with unhealthy amounts of eye-candy and addictiveness
 
+<br/>
 
 # ⌨️ When I'm AFK
 
@@ -47,7 +57,7 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
 </p>
-</div>
+<br/>
 
 # ‍💻 My Tech Stack
 
@@ -57,14 +67,16 @@
 
 </div>
 
-# 💡 A Random Quote
+# 💡 Random coding wisdom
 
 <div align="center">
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
 
-# You can find me here 🌐?
+</div>
+<br/>
+
+# 🌐 My Socials
 
 <div align="center">
 
