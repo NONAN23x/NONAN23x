@@ -9,18 +9,23 @@
 - 🎮 I spend a lot of my time playing video games like [LiesOfP](https://www.liesofp.com/en-us) and of course [Minecraft](https://www.minecraft.net/en-us) 
 - 💻 I'm an aspirant Cyber Security Professional upskilling via the use of various CTFs and Projects
 
-<div align="center">
-
 
 > My Certifications
+
+<div align="center">
+
 <p>
   <img src="./assets/icons/CEH.png" alt="CEH" width="20%">
   <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practical" width="20%">
   <img src="./assets/icons/eJPT.png" alt="eJPT" width="20%">
 </p>
 
+</div>
 
 > My Statistics
+
+<div align="center">
+
 ![NONAN23x's Stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
 ![NONAN23x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NONAN23x&theme=blueberry&hide_border=true)
