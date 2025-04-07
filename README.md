@@ -10,9 +10,9 @@
 - 💻 I'm an aspirant Cyber Security Professional upskilling via the use of various CTFs and Projects
 
 <p>
-  <img src="./assets/icons/CEH.png" alt="CEH" width="50%">
-  <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practical" width="50%">
-  <img src="./assets/icons/eJPT.png" alt="eJPT" width="50%">
+  <img src="./assets/icons/CEH.png" alt="CEH" width="20%">
+  <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practical" width="20%">
+  <img src="./assets/icons/eJPT.png" alt="eJPT" width="20%">
 </p>
 
 <div align="center">
