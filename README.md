@@ -1,13 +1,17 @@
 <div align="center">
   
-# Hello There ! 👋
+# 👋 Hello There!
 
 </div>
 
-Welcome to my GitHub Profile
-- 👋 I’m @NONAN23x, I use github to manage my code and contribute to open source!!!
+### Welcome to my GitHub Profile;
+- 👋 Hi, I’m @NONAN23x, I use github to manage my code and contribute to open source!!!
 - 🎮 I spend a lot of my time playing video games like [LiesOfP](https://www.liesofp.com/en-us) and of course [Minecraft](https://www.minecraft.net/en-us) 
 - 💻 I'm an aspirant Cyber Security Professional upskilling via the use of various CTFs and Projects
+
+<p>
+  <img src="./assets/icons/CEH.png" alt="CEH">
+</p>
 
 <div align="center">
 
