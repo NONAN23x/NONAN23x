@@ -12,23 +12,16 @@
 <div align="center">
   
 <p>
-  <img src="./assets/icons/CEH.png" alt="CEH" width="25%">
-  <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practical" width="25%">
-  <img src="./assets/icons/eJPT.png" alt="eJPT" width="25%">
+  <img src="./assets/icons/CEH.png" alt="CEH" width="20%">
+  <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practical" width="20%">
+  <img src="./assets/icons/eJPT.png" alt="eJPT" width="20%">
 </p>
 
-[![NONAN23x's GitHub stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=tokyonight&show=reviews,prs_merged)]
-
-<p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe">
-</p>
-
-# Top Languages
 
 <p align="center">
-<a href = "https://github.com/NONAN23x">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NONAN23x&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
+![NONAN23x's Stats](https://github-readme-stats.vercel.app/api?username=NONAN23x&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![NONAN23x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NONAN23x&theme=blueberry&hide_border=true)
+![NONAN23x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NONAN23x&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 </div>
