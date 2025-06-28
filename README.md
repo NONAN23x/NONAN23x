@@ -43,8 +43,7 @@
 
 # 🔭 I'm currently working on
 
-- [OctaProbe](https://github.com/NONAN23x/octaprobe) A Voice translation and transformation software written in python
-- [An Unnamed Project](#-im-currently-working-on) Working on a side project, havent decided it's name yet
+- Nothing right now, just chilling
 
 <br/>
 
