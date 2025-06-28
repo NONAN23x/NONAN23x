@@ -13,7 +13,7 @@
 
 # 📝 My Website
 
-- [NONAN23x](https://nonan23x.site/) - My personal blog where I write about various topics related to tech and gaming
+- [NONAN23x](https://nonan23x.dev/) - My personal blog where I write about various topics related to tech and gaming
 
 <br/>
 
