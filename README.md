@@ -21,6 +21,8 @@
 
 <div align="center">
 <p>
+<img src="./assets/icons/ecppt-certification.svg"
+  alt="eCPPT" width="15%">
   <img src="./assets/icons/CEH.png" alt="CEH" width="20%">
   <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practical" width="20%">
   <img src="./assets/icons/eJPT.png" alt="eJPT" width="20%">
