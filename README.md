@@ -170,8 +170,8 @@ $ ps aux | grep hobbies
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/NONAN23x)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)
   [![Blog](https://img.shields.io/badge/Blog-00FF00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://nonan23x.dev/)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000)](https://tryhackme.com/p/YOUR_USERNAME)
-  [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000000)](https://app.hackthebox.com/profile/YOUR_ID)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000)](https://tryhackme.com/p/NONAN23x)
+  [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000000)](https://app.hackthebox.com/profile/388602)
   
 </div>
 
