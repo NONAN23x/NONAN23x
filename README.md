@@ -175,24 +175,7 @@ $ ps aux | grep hobbies
   
 </div>
 
----
 
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/NONAN23x/NONAN23x/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Matrix Snake" />
-  
-</div>
 
 <!-- Easter Egg -->
 <!-- 
