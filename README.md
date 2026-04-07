@@ -48,18 +48,18 @@ $ ps aux | grep hobbies
 <div align="center">
   
   <!-- Stats Grid -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=matrix&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00&bg_color=000000" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NONAN23x&theme=matrix&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=matrix&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00&bg_color=000000" alt="GitHub Stats & Scoring" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=NONAN23x&theme=matrix&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="Current Streak" />
   
   <br><br>
   
   <!-- Language Stats -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NONAN23x&layout=donut&theme=matrix&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NONAN23x&layout=donut&theme=matrix&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" alt="Top Languages" />
   
   <br><br>
   
   <!-- Contribution Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NONAN23x&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=00FF00&line=00FF00&point=00FF00" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NONAN23x&theme=react-dark&hide_border=true&area=true&custom_title=Total%20Contributions%20Graph&color=00FF00&line=00FF00&point=00FF00" alt="Total Contributions Graph" />
   
 </div>
 
