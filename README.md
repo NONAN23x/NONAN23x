@@ -4,7 +4,6 @@
 
 </div>
 
-> **⚠️ WARNING:** This repository contains high levels of caffeine, shell scripts, and unsolicited opinions about why `vim > emacs`.
 
 ```bash
 $ whoami
@@ -24,9 +23,10 @@ $ ps aux | grep hobbies
 > Hunting flags in CTFs
 ```
 
-**Mission:** Crafting secure systems while documenting the chaos at **[nonan23x.dev](https://nonan23x.dev/)**
+Crafting secure systems while documenting the chaos at **[nonan23x.dev](https://nonan23x.dev/)**
 
 <br/>
+
 
 <div align="center">
 
@@ -41,39 +41,25 @@ $ ps aux | grep hobbies
 </p>
 </div>
 
----
+<br>
 
-## 📊 SYSTEM ANALYTICS
+## 📊 System Analytics
 
 <div align="center">
   
-  <!-- Stats Grid -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NONAN23x&show_icons=true&theme=matrix&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00&bg_color=000000" alt="GitHub Stats & Scoring" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=NONAN23x&theme=matrix&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="Current Streak" />
+  <!-- Current Streak -->
+  <img src="https://streak-stats.demolab.com/?user=NONAN23x&theme=matrix&background=000000&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="Current Streak" />
   
-  <br><br>
-  
-  <!-- Language Stats -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NONAN23x&layout=donut&theme=matrix&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" alt="Top Languages" />
-  
-  <br><br>
   
   <!-- Contribution Graph -->
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NONAN23x&theme=react-dark&hide_border=true&area=true&custom_title=Total%20Contributions%20Graph&color=00FF00&line=00FF00&point=00FF00" alt="Total Contributions Graph" />
   
 </div>
 
----
+<br>
 
-## 🔧 ACTIVE PROJECTS
+## 🔧 Active Projects
 
-```diff
-+ [████████████████░░░░] PKI-CLM-Lab        - Public Key Infrastructure & Certificate Lifecycle
-+ [██████████████░░░░░░] Marionette         - OSCP-Like Vulnerable Boot2Root CTF Challenge  
-+ [█████████████░░░░░░░] Rootkit-Analysis   - Linux Kernel Rootkit Case Study
-! [████████░░░░░░░░░░░░] Secret Project     - [CLASSIFIED] - Red Team Toolkit
-? [░░░░░░░░░░░░░░░░░░░░] OSCP Prep          - Offensive Security Certification Journey
-```
 
 <div align="center">
 
@@ -85,9 +71,9 @@ $ ps aux | grep hobbies
 
 </div>
 
----
+<br>
 
-## ⚔️ ARSENAL
+## ⚔️ Arsenal
 
 <div align="center">
 
@@ -119,9 +105,9 @@ $ ps aux | grep hobbies
   
 </div>
 
----
+<br>
 
-## 🎮 WHEN AFK
+## 🎮 When AFK
 
 <div align="center">
   
@@ -138,9 +124,9 @@ $ ps aux | grep hobbies
   
 </div>
 
----
+<br>
 
-## 📝 LATEST FROM THE LAB
+## 📝 Latest From The Lab
 
 <div align="center">
   
@@ -159,9 +145,9 @@ $ ps aux | grep hobbies
   
 </div>
 
----
+<br>
 
-## 🔗 ESTABLISH CONNECTION
+## 🔗 Establish Connection
 
 <div align="center">
   
@@ -187,6 +173,4 @@ $ ps aux | grep hobbies
   If you're reading this, you're curious enough to be a hacker.
   Keep digging. The rabbit hole goes deeper.
   
-  Contact: Your email or signal
-  PGP Key: Your PGP fingerprint
 -->
