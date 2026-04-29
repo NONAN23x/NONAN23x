@@ -29,40 +29,28 @@ I work at the point where engineering discipline and offensive security overlap.
 - Identify privilege escalation opportunities across Linux, Windows, and AD-centric environments with a focus on what is actually exploitable
 - Build labs, workflows, and internal tooling that make offensive techniques reproducible, explainable, and useful beyond a one-off engagement
 
-## Selected Work
+## Certifications
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NONAN23x/PKI-CLM-Lab">
-        <img src="https://opengraph.githubassets.com/1/NONAN23x/PKI-CLM-Lab" alt="PKI-CLM-Lab banner" />
-      </a>
-      <h3><a href="https://github.com/NONAN23x/PKI-CLM-Lab">PKI-CLM-Lab</a></h3>
-      <p>A Public Key Infrastructure and Certificate Lifecycle Management Home Lab walkthrough, Featuring EJBCA by Keyfactor</p>
+    <td width="25%" align="center" valign="middle">
+      <img src="./assets/icons/ecppt-certification.svg" alt="eCPPT" height="180" />
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NONAN23x/Marionette">
-        <img src="https://opengraph.githubassets.com/1/NONAN23x/Marionette" alt="Marionette banner" />
-      </a>
-      <h3><a href="https://github.com/NONAN23x/Marionette">Marionette</a></h3>
-      <p>An OSCP-like boot2root CTF challenge</p>
+    <td width="25%" align="center" valign="middle">
+      <img src="./assets/icons/CEH.png" alt="CEH" height="180" />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="./assets/icons/CEH_Practical.png" alt="CEH Practical" height="180" />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="./assets/icons/eJPT.png" alt="eJPT" height="180" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NONAN23x/Rootkit-Analysis-Lab">
-        <img src="https://opengraph.githubassets.com/1/NONAN23x/Rootkit-Analysis-Lab" alt="Rootkit-Analysis-Lab banner" />
-      </a>
-      <h3><a href="https://github.com/NONAN23x/Rootkit-Analysis-Lab">Rootkit-Analysis-Lab</a></h3>
-      <p>Linux rootkit analysis and low-level research lab focused on stealth, persistence, and forensic visibility</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NONAN23x/SoC-Home-Lab">
-        <img src="https://opengraph.githubassets.com/1/NONAN23x/SoC-Home-Lab" alt="SoC-Home-Lab banner" />
-      </a>
-      <h3><a href="https://github.com/NONAN23x/SoC-Home-Lab">SoC-Home-Lab</a></h3>
-      <p>Yet another SoC Lab</p>
-    </td>
+    <td align="center"><strong>eCPPT</strong></td>
+    <td align="center"><strong>CEH</strong></td>
+    <td align="center"><strong>CEH Practical</strong></td>
+    <td align="center"><strong>eJPT</strong></td>
   </tr>
 </table>
 
@@ -80,14 +68,42 @@ I work at the point where engineering discipline and offensive security overlap.
 
 </div>
 
-## Certifications
+## Selected Work
 
-<div align="center">
-  <img src="./assets/icons/ecppt-certification.svg" alt="eCPPT" width="15%" />
-  <img src="./assets/icons/CEH.png" alt="CEH" width="20%" />
-  <img src="./assets/icons/CEH_Practical.png" alt="CEH Practical" width="20%" />
-  <img src="./assets/icons/eJPT.png" alt="eJPT" width="20%" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NONAN23x/PKI-CLM-Lab">
+        <img src="https://raw.githubusercontent.com/NONAN23x/PKI-CLM-Lab/main/assets/PKI-CLM-Lab.jpg" alt="PKI-CLM-Lab banner" width="100%" />
+      </a>
+      <h3><a href="https://github.com/NONAN23x/PKI-CLM-Lab">PKI-CLM-Lab</a></h3>
+      <p>A Public Key Infrastructure and Certificate Lifecycle Management Home Lab walkthrough, featuring EJBCA by Keyfactor</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NONAN23x/Marionette">
+        <img src="./assets/icons/marionette-banner.svg" alt="Marionette banner" width="100%" />
+      </a>
+      <h3><a href="https://github.com/NONAN23x/Marionette">Marionette</a></h3>
+      <p>An OSCP-like boot2root CTF challenge</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NONAN23x/Rootkit-Analysis-Lab">
+        <img src="https://repository-images.githubusercontent.com/1126105544/72c3c354-21c0-4fdf-8318-76b77fefe0d0" alt="Rootkit-Analysis-Lab banner" width="100%" />
+      </a>
+      <h3><a href="https://github.com/NONAN23x/Rootkit-Analysis-Lab">Rootkit-Analysis-Lab</a></h3>
+      <p>Linux rootkit analysis and low-level research lab focused on stealth, persistence, and forensic visibility</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NONAN23x/SoC-Home-Lab">
+        <img src="https://repository-images.githubusercontent.com/1049726243/ca0f80a2-bf66-4fb7-88f7-7bc2d84a210d" alt="SoC-Home-Lab banner" width="100%" />
+      </a>
+      <h3><a href="https://github.com/NONAN23x/SoC-Home-Lab">SoC-Home-Lab</a></h3>
+      <p>Yet another SoC lab</p>
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
