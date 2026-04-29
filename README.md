@@ -12,30 +12,59 @@ Backend infrastructure, code review, training content, and offensive security re
 
 </div>
 
-I build systems, break systems, and document the interesting parts. My day job is backend infrastructure and secure engineering at **Razz Security**. Outside of that, I spend most of my time on offensive security, CTFs, lab work, and sound system development.
+I work at the point where engineering discipline and offensive security overlap. At **Razz Security**, I build backend infrastructure, review code with a security-first lens, and develop training content grounded in real attack paths. Outside work, I spend most of my time on CTFs, lab design, adversarial research, and systems work that sharpens both operator instinct and engineering judgment.
 
 ## Focus
 
-- Offensive security with an emphasis on recon, attack surface mapping, exploitation, and privilege escalation
-- Network and Active Directory security assessment
-- Backend infrastructure, code review, and secure engineering workflows
-- Training content that turns practical attack paths into teachable material
-- Sound system development alongside security research and tooling
+- Offensive security centered on high-signal recon, attack surface mapping, exploitation, and privilege escalation
+- Network and Active Directory assessments with a bias toward realistic operator tradecraft
+- Backend infrastructure, code review, and secure engineering workflows that hold up under scrutiny
+- Training content that translates offensive technique into repeatable, teachable practice
+- Sound system development and low-level tinkering that complement my security and engineering work
 
 ## Security Impact
 
-- Map exposed assets and trust boundaries fast enough to turn vague scope into actionable attack surface
-- Chain enumeration findings into realistic exploitation paths instead of stopping at low-signal misconfigurations
-- Identify privilege escalation routes in Linux and Windows environments, including AD-heavy labs
-- Build labs and tooling that make offensive techniques repeatable, explainable, and useful for training
+- Turn broad or messy scope into a usable map of assets, trust relationships, and attack paths
+- Move from enumeration to exploitation by prioritizing findings that create leverage, not noise
+- Identify privilege escalation opportunities across Linux, Windows, and AD-centric environments with a focus on what is actually exploitable
+- Build labs, workflows, and internal tooling that make offensive techniques reproducible, explainable, and useful beyond a one-off engagement
 
 ## Selected Work
 
-| Project | What it does | Why it matters |
-| --- | --- | --- |
-| **PKI-CLM-Lab** | Enterprise PKI lab with automated certificate lifecycle management using `Python`, `OpenSSL`, `Ansible`, and `Docker` | Explores trust, certificate operations, and the operational security problems around internal PKI |
-| **Marionette** | Vulnerable VM for offensive security practice built with `Bash`, `C`, `Python`, and `Docker` | Designed to exercise enumeration, exploitation, and post-exploitation workflow in a realistic lab |
-| **Rootkit-Analysis** | Linux rootkit research using `C`, `Assembly`, `GDB`, and `Volatility` | Focused on low-level visibility, persistence tradeoffs, and understanding attacker techniques from the inside out |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NONAN23x/PKI-CLM-Lab">
+        <img src="https://opengraph.githubassets.com/1/NONAN23x/PKI-CLM-Lab" alt="PKI-CLM-Lab banner" />
+      </a>
+      <h3><a href="https://github.com/NONAN23x/PKI-CLM-Lab">PKI-CLM-Lab</a></h3>
+      <p>A Public Key Infrastructure and Certificate Lifecycle Management Home Lab walkthrough, Featuring EJBCA by Keyfactor</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NONAN23x/Marionette">
+        <img src="https://opengraph.githubassets.com/1/NONAN23x/Marionette" alt="Marionette banner" />
+      </a>
+      <h3><a href="https://github.com/NONAN23x/Marionette">Marionette</a></h3>
+      <p>An OSCP-like boot2root CTF challenge</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NONAN23x/Rootkit-Analysis-Lab">
+        <img src="https://opengraph.githubassets.com/1/NONAN23x/Rootkit-Analysis-Lab" alt="Rootkit-Analysis-Lab banner" />
+      </a>
+      <h3><a href="https://github.com/NONAN23x/Rootkit-Analysis-Lab">Rootkit-Analysis-Lab</a></h3>
+      <p>Linux rootkit analysis and low-level research lab focused on stealth, persistence, and forensic visibility</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NONAN23x/SoC-Home-Lab">
+        <img src="https://opengraph.githubassets.com/1/NONAN23x/SoC-Home-Lab" alt="SoC-Home-Lab banner" />
+      </a>
+      <h3><a href="https://github.com/NONAN23x/SoC-Home-Lab">SoC-Home-Lab</a></h3>
+      <p>Yet another SoC Lab</p>
+    </td>
+  </tr>
+</table>
 
 ## Platforms
 
