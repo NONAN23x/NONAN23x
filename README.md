@@ -1,176 +1,79 @@
 <div align="center">
 
-# 👋 Hello There!
+# NONAN23x
+
+**Developer @Razz Security**  
+Backend infrastructure, code review, training content, and offensive security research.
+
+[![Website](https://img.shields.io/badge/Website-nonan23x.dev-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://nonan23x.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonan23x/)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019dd80a-f5aa-7214-a8cb-24a82c28c015)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NONAN23x)
 
 </div>
 
+I build systems, break systems, and document the interesting parts. My day job is backend infrastructure and secure engineering at **Razz Security**. Outside of that, I spend most of my time on offensive security, CTFs, lab work, and sound system development.
 
-```bash
-$ whoami
-> NONAN23x — Code breaker by day, CTF player by night
+## Focus
 
-$ echo $SKILLS
-> Breaking things intentionally (to fix them better)
-> Writing code that occasionally works on first try
-> Turning coffee into exploits and blog posts
+- Offensive security with an emphasis on recon, attack surface mapping, exploitation, and privilege escalation
+- Network and Active Directory security assessment
+- Backend infrastructure, code review, and secure engineering workflows
+- Training content that turns practical attack paths into teachable material
+- Sound system development alongside security research and tooling
 
-$ curl https://nonan23x.dev
-> Tech writeups, security research, and gaming rants
+## Security Impact
 
-$ ps aux | grep hobbies
-> Lies of P (souls-like masochist)
-> Minecraft (professional block architect)
-> Hunting flags in CTFs
-```
+- Map exposed assets and trust boundaries fast enough to turn vague scope into actionable attack surface
+- Chain enumeration findings into realistic exploitation paths instead of stopping at low-signal misconfigurations
+- Identify privilege escalation routes in Linux and Windows environments, including AD-heavy labs
+- Build labs and tooling that make offensive techniques repeatable, explainable, and useful for training
 
-Crafting secure systems while documenting the chaos at **[nonan23x.dev](https://nonan23x.dev/)**
+## Selected Work
 
-<br/>
+| Project | What it does | Why it matters |
+| --- | --- | --- |
+| **PKI-CLM-Lab** | Enterprise PKI lab with automated certificate lifecycle management using `Python`, `OpenSSL`, `Ansible`, and `Docker` | Explores trust, certificate operations, and the operational security problems around internal PKI |
+| **Marionette** | Vulnerable VM for offensive security practice built with `Bash`, `C`, `Python`, and `Docker` | Designed to exercise enumeration, exploitation, and post-exploitation workflow in a realistic lab |
+| **Rootkit-Analysis** | Linux rootkit research using `C`, `Assembly`, `GDB`, and `Volatility` | Focused on low-level visibility, persistence tradeoffs, and understanding attacker techniques from the inside out |
 
+## Platforms
 
 <div align="center">
 
-# 🥇 My Certifications
+<a href="https://profile.hackthebox.com/profile/019dd80a-f5aa-7214-a8cb-24a82c28c015">
+  <img src="https://www.hackthebox.com/badge/image/388602" alt="Hack The Box badge" />
+</a>
 
-<p>
-<img src="./assets/icons/ecppt-certification.svg"
-  alt="eCPPT" width="15%">
-  <img src="./assets/icons/CEH.png" alt="CEH" width="20%">
-  <img src="./assets/icons/CEH_Practical.png" alt="CEH_Practical" width="20%">
-  <img src="./assets/icons/eJPT.png" alt="eJPT" width="20%">
-</p>
+<a href="https://tryhackme.com/p/NONAN23x">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe badge" />
+</a>
+
 </div>
 
-<br>
-
-## 📊 System Analytics
+## Certifications
 
 <div align="center">
-  
-  <!-- Current Streak -->
-  <img src="https://streak-stats.demolab.com/?user=NONAN23x&theme=matrix&background=000000&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="Current Streak" />
-  
-  
-  <!-- Contribution Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NONAN23x&theme=react-dark&hide_border=true&area=true&custom_title=Total%20Contributions%20Graph&color=00FF00&line=00FF00&point=00FF00" alt="Total Contributions Graph" />
-  
+  <img src="./assets/icons/ecppt-certification.svg" alt="eCPPT" width="15%" />
+  <img src="./assets/icons/CEH.png" alt="CEH" width="20%" />
+  <img src="./assets/icons/CEH_Practical.png" alt="CEH Practical" width="20%" />
+  <img src="./assets/icons/eJPT.png" alt="eJPT" width="20%" />
 </div>
 
-<br>
+## Stack
 
-## 🔧 Active Projects
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,bash,powershell,js,docker,git,github,gitlab,ansible,aws,azure,linux,postgres,mysql,redis,sqlite&theme=dark" alt="Core stack" />
+</div>
 
+## Connect
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|:-------:|:-----------:|:----------:|:------:|
-| 🔐 **PKI-CLM-Lab** | Enterprise PKI with automated certificate lifecycle | `Python` `OpenSSL` `Ansible` `Docker` | ![Progress](https://img.shields.io/badge/Progress-85%25-00FF00?style=flat-square) |
-| 🎭 **Marionette** | Vulnerable VM for OSCP practice | `Bash` `C` `Python` `Docker` | ![Progress](https://img.shields.io/badge/Progress-70%25-00FF00?style=flat-square) |
-| 🐛 **Rootkit-Analysis** | Linux kernel rootkit research | `C` `Assembly` `GDB` `Volatility` | ![Progress](https://img.shields.io/badge/Progress-60%25-00FF00?style=flat-square) |
+[![Blog](https://img.shields.io/badge/Blog-nonan23x.dev-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://nonan23x.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-NONAN23x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NONAN23x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonan23x/)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)
+[![Instagram](https://img.shields.io/badge/Instagram-nonan23x-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nonan23x)
 
 </div>
-
-<br>
-
-## ⚔️ Arsenal
-
-<div align="center">
-
-  <!-- Programming Languages -->
-  <h4>💻 Languages</h4>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,bash,powershell,js,html,css,md&theme=dark" />
-  
-  <!-- Security Tools -->
-  <h4>🔒 Security & Forensics</h4>
-  <img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" />
-  <img src="https://img.shields.io/badge/-Metasploit-008C8C?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OWASP%20ZAP-1E90FF?style=for-the-badge&logo=owasp&logoColor=white" />
-  
-  <!-- DevOps & Infra -->
-  <h4>☁️ Infrastructure & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,ansible,aws,azure&theme=dark" />
-  
-  <!-- Databases -->
-  <h4>🗄️ Databases</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" />
-  
-  <!-- IDEs & Tools -->
-  <h4>🛠️ Development Environment</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,neovim,visualstudio,vim&theme=dark" />
-  <img src="https://img.shields.io/badge/-TMUX-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
-  
-</div>
-
-<br>
-
-## 🎮 When AFK
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  
-  <br><br>
-  
-  <!-- Steam/Game Status (Template - needs Steam API) -->
-  <img src="https://img.shields.io/badge/Currently%20Playing-Lies%20of%20P-FF0000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Also%20Playing-Minecraft-00FF00?style=for-the-badge&logo=minecraft&logoColor=white" />
-  
-</div>
-
-<br>
-
-## 📝 Latest From The Lab
-
-<div align="center">
-  
-  [![Blog](https://img.shields.io/badge/Visit-nonan23x.dev-00FF00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://nonan23x.dev/)
-  
-  <br>
-  
-  <!-- Blog Posts (This can be automated with GitHub Actions) -->
-  
-  ```diff
-  [2024-01-XX] + New Writeup: Marionette CTF Walkthrough
-  [2024-01-XX] + Tutorial: Setting up a Home PKI Lab
-  [2024-01-XX] + Analysis: Modern Linux Rootkit Techniques
-  [2024-01-XX] + CTF: HackTheBox - Machine Name [Pwned]
-  ```
-  
-</div>
-
-<br>
-
-## 🔗 Establish Connection
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/nonan23x/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/nonan23x)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/NONAN23x)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)
-  [![Blog](https://img.shields.io/badge/Blog-00FF00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://nonan23x.dev/)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000)](https://tryhackme.com/p/NONAN23x)
-  [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000000)](https://app.hackthebox.com/profile/388602)
-  
-</div>
-
-
-
-<!-- Easter Egg -->
-<!-- 
-  ██████████████████████████████████████████
-  █─▄▄▄▄█─▄▄▄─█▄─██─▄█▄─▄▄─█─▄▄─█▄─▀█▀─▄█
-  █▄▄▄▄─█─███▀██─██─███─▄█▀█─██─██─█▄█─██
-  ▀▄▄▄▄▄▀▄▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▀▄▄▄▀
-  
-  If you're reading this, you're curious enough to be a hacker.
-  Keep digging. The rabbit hole goes deeper.
-  
--->
