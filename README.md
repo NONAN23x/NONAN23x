@@ -6,7 +6,7 @@
 Backend infrastructure, code review, training content, and offensive security research.
 
 [![Website](https://img.shields.io/badge/Website-nonan23x.dev-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://nonan23x.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonan23x/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/nonan23x/)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019dd80a-f5aa-7214-a8cb-24a82c28c015)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NONAN23x)
 
@@ -31,7 +31,9 @@ I work at the point where engineering discipline and offensive security overlap.
 
 ## Certifications
 
-<table>
+<div align="center">
+
+<table align="center">
   <tr>
     <td width="25%" align="center" valign="middle">
       <img src="./assets/icons/ecppt-certification.svg" alt="eCPPT" height="180" />
@@ -54,6 +56,8 @@ I work at the point where engineering discipline and offensive security overlap.
   </tr>
 </table>
 
+</div>
+
 ## Platforms
 
 <div align="center">
@@ -64,6 +68,13 @@ I work at the point where engineering discipline and offensive security overlap.
 
 <a href="https://tryhackme.com/p/NONAN23x">
   <img src="https://tryhackme-badges.s3.amazonaws.com/NONAN23x.png" alt="TryHackMe badge" />
+</a>
+
+<br />
+<br />
+
+<a href="https://www.exophase.com/">
+  <img src="https://card.exophase.com/2/0/324109.png?1777538422" alt="Exophase gamer card" />
 </a>
 
 </div>
