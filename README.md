@@ -14,20 +14,18 @@ Backend infrastructure, code review, training content, and offensive security re
 
 I work at the point where engineering discipline and offensive security overlap. At **Razz Security**, I build backend infrastructure, review code with a security-first lens, and develop training content grounded in real attack paths. Outside work, I spend most of my time on CTFs, lab design, adversarial research, and systems work that sharpens both operator instinct and engineering judgment.
 
-## Focus
+## What I Build, Break & Teach
 
-- Offensive security centered on high-signal recon, attack surface mapping, exploitation, and privilege escalation
-- Network and Active Directory assessments with a bias toward realistic operator tradecraft
-- Backend infrastructure, code review, and secure engineering workflows that hold up under scrutiny
-- Training content that translates offensive technique into repeatable, teachable practice
-- Sound system development and low-level tinkering that complement my security and engineering work
-
-## Security Impact
-
-- Turn broad or messy scope into a usable map of assets, trust relationships, and attack paths
-- Move from enumeration to exploitation by prioritizing findings that create leverage, not noise
-- Identify privilege escalation opportunities across Linux, Windows, and AD-centric environments with a focus on what is actually exploitable
-- Build labs, workflows, and internal tooling that make offensive techniques reproducible, explainable, and useful beyond a one-off engagement
+- Build backend infrastructure, review code, and design secure engineering workflows that withstand scrutiny.
+- Map assets, trust relationships, and attack paths to turn broad scopes into focused offensive plans.
+- Founded a **50+ member** college security community with workshops, guest lectures, and industry speakers.
+- Shipped **3+ Unity games** end-to-end while exploring systems and low-level engineering.
+- Assess Linux, Windows, network, and Active Directory environments using realistic operator tradecraft.
+- Prioritize exploitable findings that create leverage, from initial access through privilege escalation.
+- Build labs, internal tools, and workflows that make offensive techniques repeatable and teachable.
+- Designed **Marionette**, an OSCP-style boot-to-root VM with a realistic mapped attack chain.
+- Deployed **150+ training modules** and authored college lab manuals still used by students.
+- Reached **Pro Hacker** on HTB, Season 10 Ruby top 20%, and TryHackMe top 1%.
 
 ## Certifications
 
