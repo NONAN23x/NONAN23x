@@ -119,9 +119,21 @@ I work at the point where engineering discipline and offensive security overlap.
 
 ## Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,bash,powershell,js,docker,git,github,gitlab,ansible,aws,azure,linux,postgres,mysql,redis,sqlite&theme=dark" alt="Core stack" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,rust,bash,powershell,js,ts&theme=dark" alt="Languages and scripting" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=astro,flutter&theme=dark" alt="Frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,ansible,aws,azure,linux&theme=dark" alt="Platforms, DevOps, and cloud" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" alt="Databases" />
+</p>
 
 ## Connect
 
