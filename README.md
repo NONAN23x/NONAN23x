@@ -16,16 +16,12 @@ I work at the point where engineering discipline and offensive security overlap.
 
 ## What I Build, Break & Teach
 
-- Build backend infrastructure, review code, and design secure engineering workflows that withstand scrutiny.
-- Map assets, trust relationships, and attack paths to turn broad scopes into focused offensive plans.
-- Founded a **50+ member** college security community with workshops, guest lectures, and industry speakers.
-- Shipped **3+ Unity games** end-to-end while exploring systems and low-level engineering.
-- Assess Linux, Windows, network, and Active Directory environments using realistic operator tradecraft.
-- Prioritize exploitable findings that create leverage, from initial access through privilege escalation.
-- Build labs, internal tools, and workflows that make offensive techniques repeatable and teachable.
-- Designed **Marionette**, an OSCP-style boot-to-root VM with a realistic mapped attack chain.
-- Deployed **150+ training modules** and authored college lab manuals still used by students.
-- Reached **Pro Hacker** on HTB, Season 10 Ruby top 20%, and TryHackMe top 1%.
+- Build backend infrastructure, review code, and design secure engineering workflows that hold up under scrutiny.
+- Turn asset maps, trust relationships, and attack paths into focused offensive plans across Linux, Windows, networks, and Active Directory.
+- Build labs, internal tools, and repeatable workflows that make offensive techniques practical to teach and apply.
+- Designed **Marionette**, an OSCP-style boot-to-root VM built around a realistic mapped attack chain.
+- Founded a **50+ member** college security community; delivered workshops, guest lectures, industry speakers, and **150+ training modules**.
+- Shipped **3+ Unity games** end-to-end and reached Pro Hacker on HTB, Season 10 Ruby top 20%, and TryHackMe top 1%.
 
 ## Certifications
 
@@ -116,6 +112,45 @@ I work at the point where engineering discipline and offensive security overlap.
     </td>
   </tr>
 </table>
+
+## Notable Contributions
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/kubernetes/website/pull/56147">
+        <img src="https://img.shields.io/badge/Kubernetes-Upstream%20Contribution-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes upstream contribution" />
+      </a>
+      <h3><a href="https://github.com/kubernetes/website/pull/56147">Kubernetes Website · PR #56147</a></h3>
+      <p>Improved navbar-search contrast over light announcement banners in the Kubernetes documentation site — created, reviewed, and merged upstream.</p>
+      <a href="https://github.com/kubernetes/website/pull/56147"><img src="https://img.shields.io/badge/Status-Merged-22C55E?style=flat-square&logo=github&logoColor=white" alt="Merged" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/NONAN23x/fpcmoh-linux">
+        <img src="https://img.shields.io/badge/Linux-Fingerprint%20Research-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux fingerprint research" />
+      </a>
+      <h3><a href="https://github.com/NONAN23x/fpcmoh-linux">fpcmoh-linux</a></h3>
+      <p>Experimental Linux support, research tooling, and Arch packaging for FPC Disum 10a5:9200 fingerprint sensors.</p>
+      <a href="https://github.com/NONAN23x/fpcmoh-linux"><img src="https://img.shields.io/badge/Focus-Low--Level%20Systems-0F172A?style=flat-square&logo=c&logoColor=white" alt="Low-level systems" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"></td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/jupyterlab/jupyterlab/pull/19066">
+        <img src="https://img.shields.io/badge/JupyterLab-Open%20Source%20Contribution-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab open-source contribution" />
+      </a>
+      <h3><a href="https://github.com/jupyterlab/jupyterlab/pull/19066">JupyterLab · PR #19066</a></h3>
+      <p>Created a standalone localization example with a Spanish translation catalog, language switching, interpolation, pluralization, and browser coverage.</p>
+      <a href="https://github.com/jupyterlab/jupyterlab/pull/19066"><img src="https://img.shields.io/badge/Status-Open-3B82F6?style=flat-square&logo=github&logoColor=white" alt="Open" /></a>
+    </td>
+    <td width="25%"></td>
+  </tr>
+</table>
+
+</div>
 
 ## Stack
 
