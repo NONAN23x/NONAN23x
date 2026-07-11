@@ -6,7 +6,7 @@
 Backend infrastructure, code review, training content, and offensive security research.
 
 [![Website](https://img.shields.io/badge/Website-nonan23x.dev-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://nonan23x.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/nonan23x/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonan23x/)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019dd80a-f5aa-7214-a8cb-24a82c28c015)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NONAN23x)
 
@@ -16,12 +16,12 @@ I work at the point where engineering discipline and offensive security overlap.
 
 ## What I Build, Break & Teach
 
-- Build backend infrastructure, review code, and design secure engineering workflows that hold up under scrutiny.
-- Turn asset maps, trust relationships, and attack paths into focused offensive plans across Linux, Windows, networks, and Active Directory.
-- Build labs, internal tools, and repeatable workflows that make offensive techniques practical to teach and apply.
-- Designed **Marionette**, an OSCP-style boot-to-root VM built around a realistic mapped attack chain.
-- Founded a **50+ member** college security community; delivered workshops, guest lectures, industry speakers, and **150+ training modules**.
-- Shipped **3+ Unity games** end-to-end and reached Pro Hacker on HTB, Season 10 Ruby top 20%, and TryHackMe top 1%.
+- **Building** backend infrastructure, reviewing code, and designing secure engineering workflows that hold up under scrutiny.
+- **Translating** asset maps, trust relationships, and attack paths into focused offensive plans across Linux, Windows, networks, and Active Directory.
+- **Developing** labs, internal tools, and repeatable workflows that make offensive techniques practical to teach and apply.
+- **Designing Marionette**, an OSCP-style boot-to-root VM built around a realistic mapped attack chain.
+- **Founding** a **50+ member** college security community, delivering workshops, guest lectures, industry speakers, and **150+ training modules**.
+- **Shipping 3+ Unity games** end-to-end, reaching Pro Hacker on HTB (Season 10 Ruby top 20%) and placing in the TryHackMe top 1%.
 
 ## Certifications
 
