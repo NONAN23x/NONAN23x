@@ -6,7 +6,7 @@
 Backend infrastructure, code review, training content, and offensive security research.
 
 [![Website](https://img.shields.io/badge/Website-nonan23x.dev-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://nonan23x.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonan23x/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTc3Ljc5NiAyMTQuMjM4Vjk4Ljk4NkgzOS40ODh2MTE1LjI1Mkg3Ny44ek01OC42NSA4My4yNTNjMTMuMzU2IDAgMjEuNjcxLTguODUgMjEuNjcxLTE5LjkxLS4yNS0xMS4zMTItOC4zMTUtMTkuOTE1LTIxLjQxNy0xOS45MTUtMTMuMTExIDAtMjEuNjc0IDguNjAzLTIxLjY3NCAxOS45MTQgMCAxMS4wNiA4LjMxMiAxOS45MSAyMS4xNjkgMTkuOTFoLjI0OHpNOTkgMjE0LjIzOGgzOC4zMDV2LTY0LjM1NWMwLTMuNDQuMjUtNi44ODkgMS4yNjItOS4zNDYgMi43NjgtNi44ODUgOS4wNzEtMTQuMDEyIDE5LjY1Ni0xNC4wMTIgMTMuODU4IDAgMTkuNDA1IDEwLjU2OCAxOS40MDUgMjYuMDYzdjYxLjY1aDM4LjMwNHYtNjYuMDgyYzAtMzUuMzk5LTE4Ljg5Ni01MS44NzItNDQuMDk5LTUxLjg3Mi0yMC42NjMgMC0yOS43MzggMTEuNTQ5LTM0Ljc4IDE5LjQxNWguMjU1Vjk4Ljk5SDk5LjAwMmMuNSAxMC44MTItLjAwMyAxMTUuMjUyLS4wMDMgMTE1LjI1MnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/nonan23x/)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019dd80a-f5aa-7214-a8cb-24a82c28c015)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NONAN23x)
 
@@ -172,7 +172,7 @@ I work at the point where engineering discipline and offensive security overlap.
 
 [![Blog](https://img.shields.io/badge/Blog-nonan23x.dev-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://nonan23x.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-NONAN23x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NONAN23x)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonan23x/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTc3Ljc5NiAyMTQuMjM4Vjk4Ljk4NkgzOS40ODh2MTE1LjI1Mkg3Ny44ek01OC42NSA4My4yNTNjMTMuMzU2IDAgMjEuNjcxLTguODUgMjEuNjcxLTE5LjkxLS4yNS0xMS4zMTItOC4zMTUtMTkuOTE1LTIxLjQxNy0xOS45MTUtMTMuMTExIDAtMjEuNjc0IDguNjAzLTIxLjY3NCAxOS45MTQgMCAxMS4wNiA4LjMxMiAxOS45MSAyMS4xNjkgMTkuOTFoLjI0OHpNOTkgMjE0LjIzOGgzOC4zMDV2LTY0LjM1NWMwLTMuNDQuMjUtNi44ODkgMS4yNjItOS4zNDYgMi43NjgtNi44ODUgOS4wNzEtMTQuMDEyIDE5LjY1Ni0xNC4wMTIgMTMuODU4IDAgMTkuNDA1IDEwLjU2OCAxOS40MDUgMjYuMDYzdjYxLjY1aDM4LjMwNHYtNjYuMDgyYzAtMzUuMzk5LTE4Ljg5Ni01MS44NzItNDQuMDk5LTUxLjg3Mi0yMC42NjMgMC0yOS43MzggMTEuNTQ5LTM0Ljc4IDE5LjQxNWguMjU1Vjk4Ljk5SDk5LjAwMmMuNSAxMC44MTItLjAwMyAxMTUuMjUyLS4wMDMgMTE1LjI1MnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/nonan23x/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)
 [![Instagram](https://img.shields.io/badge/Instagram-nonan23x-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nonan23x)
 
