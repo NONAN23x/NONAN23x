@@ -2,8 +2,8 @@
 
 # NONAN23x
 
-**Developer @Razz Security**  
-Backend infrastructure, code review, training content, and offensive security research.
+**Trainee Cloud Engineer @Winfo Solutions**<br />
+Cloud infrastructure, automation, secure systems, and offensive security research.
 
 [![Website](https://img.shields.io/badge/nonan23x.dev-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://nonan23x.dev/)
 [![LinkedIn](https://img.shields.io/badge/nonan23x-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTc3Ljc5NiAyMTQuMjM4Vjk4Ljk4NkgzOS40ODh2MTE1LjI1Mkg3Ny44ek01OC42NSA4My4yNTNjMTMuMzU2IDAgMjEuNjcxLTguODUgMjEuNjcxLTE5LjkxLS4yNS0xMS4zMTItOC4zMTUtMTkuOTE1LTIxLjQxNy0xOS45MTUtMTMuMTExIDAtMjEuNjc0IDguNjAzLTIxLjY3NCAxOS45MTQgMCAxMS4wNiA4LjMxMiAxOS45MSAyMS4xNjkgMTkuOTFoLjI0OHpNOTkgMjE0LjIzOGgzOC4zMDV2LTY0LjM1NWMwLTMuNDQuMjUtNi44ODkgMS4yNjItOS4zNDYgMi43NjgtNi44ODUgOS4wNzEtMTQuMDEyIDE5LjY1Ni0xNC4wMTIgMTMuODU4IDAgMTkuNDA1IDEwLjU2OCAxOS40MDUgMjYuMDYzdjYxLjY1aDM4LjMwNHYtNjYuMDgyYzAtMzUuMzk5LTE4Ljg5Ni01MS44NzItNDQuMDk5LTUxLjg3Mi0yMC42NjMgMC0yOS43MzggMTEuNTQ5LTM0Ljc4IDE5LjQxNWguMjU1Vjk4Ljk5SDk5LjAwMmMuNSAxMC44MTItLjAwMyAxMTUuMjUyLS4wMDMgMTE1LjI1MnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/nonan23x/)
@@ -12,7 +12,7 @@ Backend infrastructure, code review, training content, and offensive security re
 
 </div>
 
-I work at the point where engineering discipline and offensive security overlap. At **Razz Security**, I build backend infrastructure, review code with a security-first lens, and develop training content grounded in real attack paths. Outside work, I spend most of my time on CTFs, lab design, adversarial research, and systems work that sharpens both operator instinct and engineering judgment.
+I work at the point where cloud engineering discipline and offensive security overlap. At **Winfo Solutions**, I am developing practical experience with cloud infrastructure, automation, and secure systems. Outside work, I spend most of my time on CTFs, lab design, adversarial research, and systems work that sharpens both operator instinct and engineering judgment.
 
 ## What I Build, Break & Teach
 
