@@ -119,7 +119,7 @@ I work at the point where cloud engineering discipline and offensive security ov
 
 <table align="center">
   <tr>
-    <td width="33.33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/kubernetes/website/pull/56147">
         <img src="https://img.shields.io/badge/Kubernetes-Upstream%20Contribution-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes upstream contribution" />
       </a>
@@ -127,7 +127,7 @@ I work at the point where cloud engineering discipline and offensive security ov
       <p>Improved navbar-search contrast over light announcement banners in the Kubernetes documentation site — created, reviewed, and merged upstream.</p>
       <a href="https://github.com/kubernetes/website/pull/56147"><img src="https://img.shields.io/badge/Status-Merged-22C55E?style=flat-square&logo=github&logoColor=white" alt="Merged" /></a>
     </td>
-    <td width="33.33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/NONAN23x/fpcmoh-linux">
         <img src="https://img.shields.io/badge/Linux-Fingerprint%20Research-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux fingerprint research" />
       </a>
@@ -135,13 +135,15 @@ I work at the point where cloud engineering discipline and offensive security ov
       <p>Experimental Linux support, research tooling, and Arch packaging for FPC Disum 10a5:9200 fingerprint sensors.</p>
       <a href="https://github.com/NONAN23x/fpcmoh-linux"><img src="https://img.shields.io/badge/Focus-Low--Level%20Systems-0F172A?style=flat-square&logo=c&logoColor=white" alt="Low-level systems" /></a>
     </td>
-    <td width="33.33%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
       <a href="https://github.com/jupyterlab/jupyterlab/pull/19066">
         <img src="https://img.shields.io/badge/JupyterLab-Open%20Source%20Contribution-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab open-source contribution" />
       </a>
       <h3><a href="https://github.com/jupyterlab/jupyterlab/pull/19066">JupyterLab · PR #19066</a></h3>
       <p>Created a standalone localization example with a Spanish translation catalog, language switching, interpolation, pluralization, and browser coverage.</p>
-      <a href="https://github.com/jupyterlab/jupyterlab/pull/19066"><img src="https://img.shields.io/badge/Status-Open-3B82F6?style=flat-square&logo=github&logoColor=white" alt="Open" /></a>
+      <a href="https://github.com/jupyterlab/jupyterlab/pull/19066"><img src="https://img.shields.io/badge/Status-Merged-22C55E?style=flat-square&logo=github&logoColor=white" alt="Merged" /></a>
     </td>
   </tr>
 </table>
