@@ -14,9 +14,16 @@ Cloud infrastructure, automation, secure systems, and offensive security researc
 
 I work at the point where cloud engineering discipline and offensive security overlap. At **Winfo Solutions**, I am developing practical experience with cloud infrastructure, automation, and secure systems. Outside work, I spend most of my time on CTFs, lab design, adversarial research, and systems work that sharpens both operator instinct and engineering judgment.
 
+## Now
+
+At Winfo Solutions, I’m getting hands-on with the day-to-day of cloud engineering: infrastructure, automation, and the small operational details that keep systems dependable.
+
+- Building cloud labs around deployment, IAM, and observability.
+- Turning security research into tools, write-ups, and training material.
+
 ## What I Build, Break & Teach
 
-- **Building** backend infrastructure, reviewing code, and designing secure engineering workflows that hold up under scrutiny.
+- **Building** backend and cloud infrastructure, reviewing code, and designing secure engineering workflows that hold up under scrutiny.
 - **Translating** asset maps, trust relationships, and attack paths into focused offensive plans across Linux, Windows, networks, and Active Directory.
 - **Developing** labs, internal tools, and repeatable workflows that make offensive techniques practical to teach and apply.
 - **Designing Marionette**, an OSCP-style boot-to-root VM built around a realistic mapped attack chain.
@@ -76,6 +83,26 @@ I work at the point where cloud engineering discipline and offensive security ov
 
 </div>
 
+## GitHub Scoreboard
+
+<div align="center">
+
+<a href="https://github.com/NONAN23x">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=NONAN23x&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1&icon_color=F97316" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/NONAN23x">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NONAN23x&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1" alt="Most used programming languages" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/NONAN23x">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NONAN23x&hide_border=true&theme=transparent&background=00000000&stroke=334155&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak" />
+</a>
+
+</div>
+
 ## Selected Work
 
 <table>
@@ -119,7 +146,7 @@ I work at the point where cloud engineering discipline and offensive security ov
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <a href="https://github.com/kubernetes/website/pull/56147">
         <img src="https://img.shields.io/badge/Kubernetes-Upstream%20Contribution-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes upstream contribution" />
       </a>
@@ -127,7 +154,7 @@ I work at the point where cloud engineering discipline and offensive security ov
       <p>Improved navbar-search contrast over light announcement banners in the Kubernetes documentation site — created, reviewed, and merged upstream.</p>
       <a href="https://github.com/kubernetes/website/pull/56147"><img src="https://img.shields.io/badge/Status-Merged-22C55E?style=flat-square&logo=github&logoColor=white" alt="Merged" /></a>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <a href="https://github.com/NONAN23x/fpcmoh-linux">
         <img src="https://img.shields.io/badge/Linux-Fingerprint%20Research-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux fingerprint research" />
       </a>
@@ -135,9 +162,7 @@ I work at the point where cloud engineering discipline and offensive security ov
       <p>Experimental Linux support, research tooling, and Arch packaging for FPC Disum 10a5:9200 fingerprint sensors.</p>
       <a href="https://github.com/NONAN23x/fpcmoh-linux"><img src="https://img.shields.io/badge/Focus-Low--Level%20Systems-0F172A?style=flat-square&logo=c&logoColor=white" alt="Low-level systems" /></a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <a href="https://github.com/jupyterlab/jupyterlab/pull/19066">
         <img src="https://img.shields.io/badge/JupyterLab-Open%20Source%20Contribution-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab open-source contribution" />
       </a>
@@ -161,7 +186,7 @@ I work at the point where cloud engineering discipline and offensive security ov
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,ansible,aws,azure,linux&theme=dark" alt="Platforms, DevOps, and cloud" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,ansible,aws,azure,terraform,kubernetes,linux&theme=dark" alt="Platforms, DevOps, and cloud" />
 </p>
 
 <p align="center">
@@ -177,5 +202,15 @@ I work at the point where cloud engineering discipline and offensive security ov
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTc3Ljc5NiAyMTQuMjM4Vjk4Ljk4NkgzOS40ODh2MTE1LjI1Mkg3Ny44ek01OC42NSA4My4yNTNjMTMuMzU2IDAgMjEuNjcxLTguODUgMjEuNjcxLTE5LjkxLS4yNS0xMS4zMTItOC4zMTUtMTkuOTE1LTIxLjQxNy0xOS45MTUtMTMuMTExIDAtMjEuNjc0IDguNjAzLTIxLjY3NCAxOS45MTQgMCAxMS4wNiA4LjMxMiAxOS45MSAyMS4xNjkgMTkuOTFoLjI0OHpNOTkgMjE0LjIzOGgzOC4zMDV2LTY0LjM1NWMwLTMuNDQuMjUtNi44ODkgMS4yNjItOS4zNDYgMi43NjgtNi44ODUgOS4wNzEtMTQuMDEyIDE5LjY1Ni0xNC4wMTIgMTMuODU4IDAgMTkuNDA1IDEwLjU2OCAxOS40MDUgMjYuMDYzdjYxLjY1aDM4LjMwNHYtNjYuMDgyYzAtMzUuMzk5LTE4Ljg5Ni01MS44NzItNDQuMDk5LTUxLjg3Mi0yMC42NjMgMC0yOS43MzggMTEuNTQ5LTM0Ljc4IDE5LjQxNWguMjU1Vjk4Ljk5SDk5LjAwMmMuNSAxMC44MTItLjAwMyAxMTUuMjUyLS4wMDMgMTE1LjI1MnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/nonan23x/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)
 [![Instagram](https://img.shields.io/badge/Instagram-nonan23x-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nonan23x)
+
+</div>
+
+## Random Quote
+
+<div align="center">
+
+<a href="https://github.com/PiyushSuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random programming quote" width="80%" />
+</a>
 
 </div>
