@@ -2,30 +2,33 @@
 
 # NONAN23x
 
-**Trainee Cloud Engineer @Winfo Solutions**<br />
-Cloud infrastructure, automation, secure systems, and offensive security research.
+**DevOps Engineer @ Winfo Solutions**<br />
+Oracle Certified Professional in Enterprise AI · OCI, secure cloud systems, and intelligent automation.
 
 [![Website](https://img.shields.io/badge/nonan23x.dev-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://nonan23x.dev/)
-[![LinkedIn](https://img.shields.io/badge/nonan23x-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTc3Ljc5NiAyMTQuMjM4Vjk4Ljk4NkgzOS40ODh2MTE1LjI1Mkg3Ny44ek01OC42NSA4My4yNTNjMTMuMzU2IDAgMjEuNjcxLTguODUgMjEuNjcxLTE5LjkxLS4yNS0xMS4zMTItOC4zMTUtMTkuOTE1LTIxLjQxNy0xOS45MTUtMTMuMTExIDAtMjEuNjc0IDguNjAzLTIxLjY3NCAxOS45MTQgMCAxMS4wNiA4LjMxMiAxOS45MSAyMS4xNjkgMTkuOTFoLjI0OHpNOTkgMjE0LjIzOGgzOC4zMDV2LTY0LjM1NWMwLTMuNDQuMjUtNi44ODkgMS4yNjItOS4zNDYgMi43NjgtNi44ODUgOS4wNzEtMTQuMDEyIDE5LjY1Ni0xNC4wMTIgMTMuODU4IDAgMTkuNDA1IDEwLjU2OCAxOS40MDUgMjYuMDYzdjYxLjY1aDM4LjMwNHYtNjYuMDgyYzAtMzUuMzk5LTE4Ljg5Ni01MS44NzItNDQuMDk5LTUxLjg3Mi0yMC42NjMgMC0yOS43MzggMTEuNTQ5LTM0Ljc4IDE5LjQxNWguMjU1Vjk4Ljk5SDk5LjAwMmMuNSAxMC44MTItLjAwMyAxMTUuMjUyLS4wMDMgMTE1LjI1MnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/nonan23x/)
+[![LinkedIn](https://img.shields.io/badge/nonan23x-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTc3Ljc5NiAyMTQuMjM4Vjk4Ljk4NkgzOS40ODh2MTE1LjI1Mkg3Ny44ek01OC42NSA4My4yNTNjMTMuMzU2IDAgMjEuNjcxLTguODUgMjEuNjcxLTE5LjkxLS4yNS0xMS4zMTItOC4zMTUtMTkuOTE1LTIxLjQxNy0xOS45MTUtMTMuMTExIDAtMjEuNjc0IDguNjAzLTIxLjY3NCAxOS45MTQgMCAxMS4wNiA4LjMxMiAxOS45MSAyMS4xNjkgMTkuOTFoLjI0OHpNOTkgMjE0LjIzOGgzOC4zMDV2LTY0LjM1NWMwLTMuNDQuMjUtNi44ODkgMS4yNjItOS4zNDYgMi43NjgtNi44ODUgOS4wNzEtMTQuMDEyIDE5LjY1Ni0xNC4wMTIgMTMuODU4IDAgMTkuNDA1IDEwLjU2OCAxOS40MDUgMjYuMDYzdjYxLjY1aDM4LjMwNHYtNjYuMDgyYzAtMzUuMzk5LTE4Ljg5Ni01MS44NzItNDQuMDk5LTUxLjg3Mi0yMC42NjMgMC0yOS43MzggMTEuNTQ5LTM0Ljc4IDE5LjQxNWguMjU1Vjk4Ljk5SDk5LjAwMmMuNSAxMC44MTItLjAwMyAxMTUuMjUyLS4wMDMgMTE1LjI1MnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/nomaan-ju/)
 [![Hack The Box](https://img.shields.io/badge/HTB%20Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019dd80a-f5aa-7214-a8cb-24a82c28c015)
 [![TryHackMe](https://img.shields.io/badge/THM%20Profile-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NONAN23x)
 
 </div>
 
-I work at the point where cloud engineering discipline and offensive security overlap. At **Winfo Solutions**, I am developing practical experience with cloud infrastructure, automation, and secure systems. Outside work, I spend most of my time on CTFs, lab design, adversarial research, and systems work that sharpens both operator instinct and engineering judgment.
+I build cloud systems for a living, break them to understand where they fail, and automate the work that should never be manual twice.
+
+At **Winfo Solutions**, I work across cloud architecture, SOC operations, and internal AI tools and agents. My current focus is Oracle Cloud Infrastructure and the operational work behind dependable enterprise systems: identity, observability, automation, and security.
+
+I came to OCI with hands-on experience across AWS, Linode, and Hostinger, plus an offensive-security background that still shapes how I engineer. I think in trust boundaries, failure modes, attack paths, and what an operator needs when something breaks at 2 a.m.
 
 ## Now
 
-At Winfo Solutions, I’m getting hands-on with the day-to-day of cloud engineering: infrastructure, automation, and the small operational details that keep systems dependable.
-
-- Building cloud labs around deployment, IAM, and observability.
-- Turning security research into tools, write-ups, and training material.
+- Working across OCI cloud architecture, SOC operations, and internal AI tooling at an Oracle partner.
+- Turning repetitive engineering and security workflows into tools and agents.
+- Deepening practical work in IAM, observability, automation, and secure cloud operations.
 
 ## What I Build, Break & Teach
 
-- **Building** backend and cloud infrastructure, reviewing code, and designing secure engineering workflows that hold up under scrutiny.
-- **Translating** asset maps, trust relationships, and attack paths into focused offensive plans across Linux, Windows, networks, and Active Directory.
-- **Developing** labs, internal tools, and repeatable workflows that make offensive techniques practical to teach and apply.
+- **Building** cloud infrastructure and internal tooling with reliability, operability, and security in mind.
+- **Developing** AI agents and repeatable automation for engineering and SOC workflows.
+- **Applying** offensive-security experience to trust boundaries, failure modes, attack paths, and defensive design.
 - **Designing Marionette**, an OSCP-style boot-to-root VM built around a realistic mapped attack chain.
 - **Founding** a **50+ member** college security community, delivering workshops, guest lectures, industry speakers, and **150+ training modules**.
 - **Shipping 3+ Unity games** end-to-end, reaching Pro Hacker on HTB (Season 10 Ruby top 20%) and placing in the TryHackMe top 1%.
@@ -33,6 +36,22 @@ At Winfo Solutions, I’m getting hands-on with the day-to-day of cloud engineer
 ## Certifications
 
 <div align="center">
+
+<table align="center">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="./assets/icons/oracle-enterprise-ai-professional-2026.jpg" alt="Oracle Cloud Infrastructure 2026 Certified Enterprise AI Professional" height="210" />
+    </td>
+    <td width="55%" align="left" valign="middle">
+      <strong>Oracle Cloud Infrastructure 2026 Certified Enterprise AI Professional</strong><br /><br />
+      Oracle Cloud Infrastructure Foundations Associate<br />
+      Oracle AI Foundations Associate<br />
+      Oracle Agentic AI Foundations
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <table align="center">
   <tr>
@@ -199,7 +218,7 @@ At Winfo Solutions, I’m getting hands-on with the day-to-day of cloud engineer
 
 [![Blog](https://img.shields.io/badge/Blog-nonan23x.dev-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://nonan23x.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-NONAN23x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NONAN23x)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTc3Ljc5NiAyMTQuMjM4Vjk4Ljk4NkgzOS40ODh2MTE1LjI1Mkg3Ny44ek01OC42NSA4My4yNTNjMTMuMzU2IDAgMjEuNjcxLTguODUgMjEuNjcxLTE5LjkxLS4yNS0xMS4zMTItOC4zMTUtMTkuOTE1LTIxLjQxNy0xOS45MTUtMTMuMTExIDAtMjEuNjc0IDguNjAzLTIxLjY3NCAxOS45MTQgMCAxMS4wNiA4LjMxMiAxOS45MSAyMS4xNjkgMTkuOTFoLjI0OHpNOTkgMjE0LjIzOGgzOC4zMDV2LTY0LjM1NWMwLTMuNDQuMjUtNi44ODkgMS4yNjItOS4zNDYgMi43NjgtNi44ODUgOS4wNzEtMTQuMDEyIDE5LjY1Ni0xNC4wMTIgMTMuODU4IDAgMTkuNDA1IDEwLjU2OCAxOS40MDUgMjYuMDYzdjYxLjY1aDM4LjMwNHYtNjYuMDgyYzAtMzUuMzk5LTE4Ljg5Ni01MS44NzItNDQuMDk5LTUxLjg3Mi0yMC42NjMgMC0yOS43MzggMTEuNTQ5LTM0Ljc4IDE5LjQxNWguMjU1Vjk4Ljk5SDk5LjAwMmMuNSAxMC44MTItLjAwMyAxMTUuMjUyLS4wMDMgMTE1LjI1MnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/nonan23x/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nonan23x-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTc3Ljc5NiAyMTQuMjM4Vjk4Ljk4NkgzOS40ODh2MTE1LjI1Mkg3Ny44ek01OC42NSA4My4yNTNjMTMuMzU2IDAgMjEuNjcxLTguODUgMjEuNjcxLTE5LjkxLS4yNS0xMS4zMTItOC4zMTUtMTkuOTE1LTIxLjQxNy0xOS45MTUtMTMuMTExIDAtMjEuNjc0IDguNjAzLTIxLjY3NCAxOS45MTQgMCAxMS4wNiA4LjMxMiAxOS45MSAyMS4xNjkgMTkuOTFoLjI0OHpNOTkgMjE0LjIzOGgzOC4zMDV2LTY0LjM1NWMwLTMuNDQuMjUtNi44ODkgMS4yNjItOS4zNDYgMi43NjgtNi44ODUgOS4wNzEtMTQuMDEyIDE5LjY1Ni0xNC4wMTIgMTMuODU4IDAgMTkuNDA1IDEwLjU2OCAxOS40MDUgMjYuMDYzdjYxLjY1aDM4LjMwNHYtNjYuMDgyYzAtMzUuMzk5LTE4Ljg5Ni01MS44NzItNDQuMDk5LTUxLjg3Mi0yMC42NjMgMC0yOS43MzggMTEuNTQ5LTM0Ljc4IDE5LjQxNWguMjU1Vjk4Ljk5SDk5LjAwMmMuNSAxMC44MTItLjAwMyAxMTUuMjUyLS4wMDMgMTE1LjI1MnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/nomaan-ju/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDYLeaoFXWeetM98KkuOrtA)
 [![Instagram](https://img.shields.io/badge/Instagram-nonan23x-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nonan23x)
 
