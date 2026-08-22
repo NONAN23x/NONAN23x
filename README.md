@@ -3,7 +3,6 @@
 # NONAN23x
 
 **DevOps Engineer @ Winfo Solutions**<br />
-Oracle Certified Professional in Enterprise AI · OCI, secure cloud systems, and intelligent automation.
 
 [![Website](https://img.shields.io/badge/nonan23x.dev-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://nonan23x.dev/)
 [![LinkedIn](https://img.shields.io/badge/nonan23x-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTc3Ljc5NiAyMTQuMjM4Vjk4Ljk4NkgzOS40ODh2MTE1LjI1Mkg3Ny44ek01OC42NSA4My4yNTNjMTMuMzU2IDAgMjEuNjcxLTguODUgMjEuNjcxLTE5LjkxLS4yNS0xMS4zMTItOC4zMTUtMTkuOTE1LTIxLjQxNy0xOS45MTUtMTMuMTExIDAtMjEuNjc0IDguNjAzLTIxLjY3NCAxOS45MTQgMCAxMS4wNiA4LjMxMiAxOS45MSAyMS4xNjkgMTkuOTFoLjI0OHpNOTkgMjE0LjIzOGgzOC4zMDV2LTY0LjM1NWMwLTMuNDQuMjUtNi44ODkgMS4yNjItOS4zNDYgMi43NjgtNi44ODUgOS4wNzEtMTQuMDEyIDE5LjY1Ni0xNC4wMTIgMTMuODU4IDAgMTkuNDA1IDEwLjU2OCAxOS40MDUgMjYuMDYzdjYxLjY1aDM4LjMwNHYtNjYuMDgyYzAtMzUuMzk5LTE4Ljg5Ni01MS44NzItNDQuMDk5LTUxLjg3Mi0yMC42NjMgMC0yOS43MzggMTEuNTQ5LTM0Ljc4IDE5LjQxNWguMjU1Vjk4Ljk5SDk5LjAwMmMuNSAxMC44MTItLjAwMyAxMTUuMjUyLS4wMDMgMTE1LjI1MnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/nomaan-ju/)
