@@ -39,9 +39,7 @@ I came to OCI with hands-on experience across AWS, Linode, and Hostinger, plus a
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <a href="https://www.credly.com/badges/05b9bd41-59b0-4fd3-b08a-115be7d41248/public_url">
-        <img src="./assets/icons/claude-certified-architect-foundations.png" alt="Claude Certified Architect — Foundations" width="150" />
-      </a>
+      <img src="./assets/icons/claude-certified-architect-foundations.png" alt="Claude Certified Architect — Foundations" width="150" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="./assets/icons/oracle-enterprise-ai-professional-2026.jpg" alt="Oracle Cloud Infrastructure 2026 Certified Enterprise AI Professional" width="300" />
@@ -49,7 +47,8 @@ I came to OCI with hands-on experience across AWS, Linode, and Hostinger, plus a
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <strong>Claude Certified Architect</strong><br />Foundations
+      <strong>Claude Certified Architect</strong><br />Foundations<br />
+      <a href="https://www.credly.com/badges/05b9bd41-59b0-4fd3-b08a-115be7d41248/public_url">Verify on Credly</a>
     </td>
     <td width="50%" align="center" valign="top">
       <strong>OCI 2026 Enterprise AI Professional</strong>
