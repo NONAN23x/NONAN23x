@@ -47,8 +47,7 @@ I came to OCI with hands-on experience across AWS, Linode, and Hostinger, plus a
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <strong>Claude Certified Architect</strong><br />Foundations<br />
-      <a href="https://www.credly.com/badges/05b9bd41-59b0-4fd3-b08a-115be7d41248/public_url">Verify on Credly</a>
+      <strong>Claude Certified Architect</strong><br />Foundations
     </td>
     <td width="50%" align="center" valign="top">
       <strong>OCI 2026 Enterprise AI Professional</strong>
