@@ -36,16 +36,24 @@ I came to OCI with hands-on experience across AWS, Linode, and Hostinger, plus a
 
 <div align="center">
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="45%" align="center" valign="middle">
-      <img src="./assets/icons/oracle-enterprise-ai-professional-2026.jpg" alt="Oracle Cloud Infrastructure 2026 Certified Enterprise AI Professional" height="210" />
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.credly.com/badges/05b9bd41-59b0-4fd3-b08a-115be7d41248/public_url">
+        <img src="./assets/icons/claude-certified-architect-foundations.png" alt="Claude Certified Architect — Foundations" width="150" />
+      </a>
     </td>
-    <td width="55%" align="left" valign="middle">
-      <strong>Oracle Cloud Infrastructure 2026 Certified Enterprise AI Professional</strong><br /><br />
-      Oracle Cloud Infrastructure Foundations Associate<br />
-      Oracle AI Foundations Associate<br />
-      Oracle Agentic AI Foundations
+    <td width="50%" align="center" valign="middle">
+      <img src="./assets/icons/oracle-enterprise-ai-professional-2026.jpg" alt="Oracle Cloud Infrastructure 2026 Certified Enterprise AI Professional" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.credly.com/badges/05b9bd41-59b0-4fd3-b08a-115be7d41248/public_url"><strong>Claude Certified Architect</strong><br />Foundations</a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <strong>OCI 2026 Enterprise AI Professional</strong><br />
+      <sub>OCI &amp; AI Foundations Associate · Agentic AI Foundations</sub>
     </td>
   </tr>
 </table>
